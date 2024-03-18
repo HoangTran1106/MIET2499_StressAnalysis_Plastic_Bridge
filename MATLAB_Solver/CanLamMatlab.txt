@@ -1,0 +1,3 @@
+Bending moment
+Shear force
+Curvature
